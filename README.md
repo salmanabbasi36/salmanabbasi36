@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmanabbasi36
+- 👋 Hi, I’m @salmanabbasi
 - 👀 I’m interested in python
 - 🌱 I’m currently learning data_sciences_with_python
 - 💞️ I’m looking to collaborate on data_science_and_visualisation
